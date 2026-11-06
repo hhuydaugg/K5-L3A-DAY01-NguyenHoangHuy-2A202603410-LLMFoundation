@@ -10,7 +10,7 @@
 
 | Tệp | Có? |
 | --- | --- |
-| [`day01_lab.ipynb`](day01_lab.ipynb) — notebook đã chạy, còn output | Có |
+| [`K5-L3A-DAY01-NguyenHoangHuy-2A202603410-LLMFoundation.ipynb`](K5-L3A-DAY01-NguyenHoangHuy-2A202603410-LLMFoundation.ipynb) — notebook đã chạy, còn output | Có |
 | [`lab1_report.json`](lab1_report.json) — do ô "Báo cáo cuối" sinh ra | Có |
 | [`hand_calc.jpg`](hand_calc.jpg) — ảnh tính tay có các bước | Có |
 
